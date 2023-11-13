@@ -3,7 +3,7 @@
 Read more about its history on [Wikipedia](https://en.wikipedia.org/wiki/Breakout_(video_game))
 
 
-<img src="https://github.com/Id-Dark-Dragon/Python-Mini-Games/blob/main/2-Breakout/image-git/Screenshot%202023-11-13%20154958.png" width="800" height="600">
+<img src="https://github.com/Id-Dark-Dragon/Python-Mini-Games/blob/main/2-Breakout/image-git/Breakout%201402-08-22%2016-01-42.gif" width="800" height="600">
 
 ## run
 Just run `main.py`!

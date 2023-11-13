@@ -5,7 +5,7 @@ Frogger or in my case, "Turtler"!
 Read more about its history on [Wikipedia](https://en.wikipedia.org/wiki/Frogger)
 
 
-<img src="https://github.com/Id-Dark-Dragon/Python-Mini-Games/blob/main/4-Frogger/git-asset/Screenshot%202023-11-14%20013406.png" width="800" height="600">
+<img src="https://github.com/Id-Dark-Dragon/Python-Mini-Games/blob/main/4-Frogger/git-asset/Python%20Turtle%20Graphics%201402-08-23%2002-01-07.gif" width="800" height="600">
 
 ## run
 Just run `main.py`!

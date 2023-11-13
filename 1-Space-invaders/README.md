@@ -19,3 +19,6 @@ Some configuratuions are accesible from `config.py`.
 
 ## Play online
 Use this [link](https://elgoog.im/space-invaders/) to play it on `elgoog.im`.
+
+## Appendix
+This could contain potential bugs due to a lack of testing time.

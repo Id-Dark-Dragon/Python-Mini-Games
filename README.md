@@ -1,7 +1,8 @@
 # Old Arcade Games *in python*
 
 An archive of some old arcade games made in Pyhon using `turtles` and `CTkinter`.
-These projects are 
+
+These projects are a part of my python learning experience! **I have focused more on the logic than the interface** so any unpleasant experience is probable.
 
 ---
 
@@ -11,8 +12,7 @@ These projects are
 
 ---
 
-2.**Pong**
+2. [**Breakout**](https://github.com/Id-Dark-Dragon/Python-Mini-Games/tree/main/2-Breakout)
+<img src="m/Id-Dark-Dragon/Python-Mini-Games/blob/main/2-Breakout/image-git/Screenshot%202023-11-13%20154958.png" width="600" height=600>
 
----
 
-3.**Breakout**

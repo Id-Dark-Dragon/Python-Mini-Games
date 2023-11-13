@@ -1,6 +1,6 @@
 # Snake
 
-Read more on [Wikipedia](https://en.wikipedia.org/wiki/Frogger](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
+Read more on [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
 
 
 <img src="https://github.com/Id-Dark-Dragon/Python-Mini-Games/blob/main/5-Snake/git-asset/snake%20game%201402-08-23%2002-19-01.gif" width="800" height="600">

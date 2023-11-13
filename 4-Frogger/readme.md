@@ -13,6 +13,8 @@ No additional requirements are needed.
 ```
 python main.py
 ```
+## How To Play
+Use "UP" arrow key to move the turtle forward.
 
 ## Play online
 Use this [link](https://froggerclassic.appspot.com/) to play the real game.

@@ -12,8 +12,11 @@ No additional requirements are needed.
 python main.py
 ```
 
+## How To Play
+Use "Left" and "Right" arrow keys to move the pad.
+
 ## Play online
 Use this [link](https://elgoog.im/breakout/) to play it on `elgoog.im`.
 
-## Appendix
+## Warnings
 This could contain potential bugs due to a lack of testing time.

@@ -2,7 +2,7 @@
 
 An archive of some old arcade games made in Pyhon using `turtles` and `CTkinter`.
 
-These projects are a part of my python learning experience! **I have focused more on the logic than the interface** so any unpleasant experience is probable.
+These projects are a part of python learning experience! **I have focused more on the logic than the interface** so any unpleasant experience is probable.
 
 ---
 
